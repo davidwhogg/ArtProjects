@@ -5,6 +5,9 @@ Copyright 2014 David W. Hogg (NYU)
 # usage:
 - python richter_strip.py input.jpg output.jpg
 
+# comments:
+- Inspired by the "strip" series of digital prints by Gerhardt Richter.
+
 # bugs:
 - super-slow
 """
